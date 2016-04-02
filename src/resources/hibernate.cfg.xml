@@ -12,6 +12,5 @@
     <property name="hibernate.format_sql">false</property>
     <property name="hibernate.generate_statistics">true</property>
     <mapping class="com.springapp.Entity.Profile" />
-<!--    <property name="dfk"></property>-->
   </session-factory>
 </hibernate-configuration>
