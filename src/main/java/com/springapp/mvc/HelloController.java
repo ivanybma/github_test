@@ -41,7 +41,7 @@ public class HelloController {
 	//welcome page
 	@RequestMapping(value="/", method = RequestMethod.GET)
 	public String printWelcome(ModelMap model) {
-		model.addAttribute("message", "Group 7: CMPE 275 Lab 2");
+		model.addAttribute("message", "Group 7: CMPE 275");
 		return "hello";
 	}
 
