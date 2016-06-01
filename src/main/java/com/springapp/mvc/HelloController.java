@@ -21,6 +21,7 @@ import java.util.List;
  * The controller class is responsible to display model to view
  * and handle event from view and changes model accordingly
  * by a1
+ * b1
  * @author  Che-Yi Kung, MingLu Liu, Yuebiao Ma
  * @version 1.0
  * @since 2016-03-30
