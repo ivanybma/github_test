@@ -13,6 +13,6 @@ public interface Dao<T extends Object> {
     public void deleteById(Serializable id);
     public void update(T st);
     public List<T> query(String id);
-    System.out.println("by A");
+    System.out.println("by B”);
     System.out.println("test by b");
 }
