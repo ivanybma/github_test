@@ -15,6 +15,7 @@ public interface Dao<T extends Object> {
     public List<T> query(String id);
     System.out.println("branch1");
     System.out.println("by B”);
+    System.out.println("branch1 new updates");
 //    System.out.println("by A");
 //    System.out.println("test by b");
 }
