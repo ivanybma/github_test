@@ -17,4 +17,5 @@ public interface Dao<T extends Object> {
     System.out.println("by B”);
 //    System.out.println("by A");
 //    System.out.println("test by b");
+    Sustem.out.println("direct master");
 }
