@@ -16,6 +16,7 @@ public interface Dao<T extends Object> {
     System.out.println("branch1");
     System.out.println("by B”);
     System.out.println("branch1 new updates");
+    System.out.println("direct cloned from branch1 then hookup master branch");
 //    System.out.println("by A");
 //    System.out.println("test by b");
     Sustem.out.println("direct master");
